@@ -13,16 +13,18 @@ CNFC has some advantages over other types of communication technologies, such as
 
 Overall, CNFC is a useful technology for certain applications that require short-range, low-power communication between two devices.    
 
-# Applications   
+# Applications  
+
+
 # Block Diagram   
 
 # Authors
-1. Aditya Singh - aditya.singh@iiitb.ac.in
-2. Nishit Chechani - nishit.chechani@iiitb.ac.in
-3. Yash Kothari -yash.kothari@iiitb.ac.in
+- Aditya Singh - aditya.singh@iiitb.ac.in
+- Nishit Chechani - nishit.chechani@iiitb.ac.in
+- Yash Kothari -yash.kothari@iiitb.ac.in
 
 # Acknowledgement  
-Kurian Polachan,IIIT Bangalore - kurian.polachan@iiitb.ac.in
+- Kurian Polachan,IIIT Bangalore - kurian.polachan@iiitb.ac.in
 
 # References   
 1. https://www.researchgate.net/publication/265253445_Capacitive_Near-Field_Communication_for_Ubiquitous_Interaction_and_Perception
