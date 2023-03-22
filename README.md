@@ -29,6 +29,8 @@ Kurian Polachan,IIIT Bangalore - kurian.polachan@iiitb.ac.in
 
 2. [Touch-driven Interaction via an NFC-enabled Smartphone](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6197548)
 
-3. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9781573
+3. [Demonstration of near-field capacitive standard
+communication bus for ultrathin reconfigurable
+sensor nodes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9781573)
 
 4. https://www.infineon.com/dgdl/Infineon-Component_CapSense_P4_V6.0-Software%20Module%20Datasheets-v07_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0e7a72330b90
