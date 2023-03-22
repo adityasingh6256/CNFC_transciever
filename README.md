@@ -1,7 +1,7 @@
 # CNFC_transciever    
 Capacitive Near-Field Communication Transciever    
 
-#Abstract    
+# Abstract    
 
 Capacitive Near Field Communication (CNFC) is a technology that enables communication between two devices through capacitive coupling, which is a type of electromagnetic coupling that occurs when two conductive objects are brought close together.
 
@@ -13,4 +13,22 @@ CNFC has some advantages over other types of communication technologies, such as
 
 Overall, CNFC is a useful technology for certain applications that require short-range, low-power communication between two devices.    
 
-#
+# Applications   
+# Block Diagram   
+
+# Authors
+1. Aditya Singh - aditya.singh@iiitb.ac.in
+2. Nishit Chechani - nishit.chechani@iiitb.ac.in
+3. Yash Kothari -yash.kothari@iiitb.ac.in
+
+# Acknowledgement  
+Kurian Polachan,IIIT Bangalore - kurian.polachan@iiitb.ac.in
+
+# References   
+1. https://www.researchgate.net/publication/265253445_Capacitive_Near-Field_Communication_for_Ubiquitous_Interaction_and_Perception
+
+2. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6197548
+
+3. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9781573
+
+4. https://www.infineon.com/dgdl/Infineon-Component_CapSense_P4_V6.0-Software%20Module%20Datasheets-v07_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0e7a72330b90
