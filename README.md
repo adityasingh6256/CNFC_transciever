@@ -27,7 +27,7 @@ Kurian Polachan,IIIT Bangalore - kurian.polachan@iiitb.ac.in
 # References   
 1. https://www.researchgate.net/publication/265253445_Capacitive_Near-Field_Communication_for_Ubiquitous_Interaction_and_Perception
 
-2. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6197548
+2. []https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6197548
 
 3. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9781573
 
