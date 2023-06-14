@@ -2,7 +2,7 @@
 Capacitive Near-Field Communication Transciever  
 
 onedrive...all files and project work
-https://1drv.ms/f/s!AmSA92w7RxHWgatv7tT43kO7Hqh5uA?e=54qdKr
+https://1drv.ms/f/s!AmSA92w7RxHWga0LLQYSJagy9mDnxA?e=uKiwyp
 
 # Abstract    
 
@@ -20,8 +20,8 @@ Overall, CNFC is a useful technology for certain applications that require short
 - Google pay pay later (secure payment)    
 - Touch-driven interaction system with home appliances via an NFC-enabled smartphone    
 
-# Block Diagram    
-![Drawing](https://user-images.githubusercontent.com/110079790/226916379-9a3f4522-144a-49fa-9b47-7a6e442823c3.png)
+# Poject_in_IEEE_format    
+https://1drv.ms/b/s!AmSA92w7RxHWgat3LMHrI6zTcQt6iA?e=LgqwyJ
 
 
 # Authors
